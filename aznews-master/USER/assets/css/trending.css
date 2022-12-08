@@ -1,0 +1,16 @@
+*
+body{
+padding-left: 20px;
+padding-right: 30px;
+border-radius: 10px;
+}
+
+.tulisan{
+margin-left: 10px;
+border-radius: 20px;
+margin-right: 20px;
+padding-left: 10px;
+padding-right: 20px;
+line-height: 10;
+
+}
